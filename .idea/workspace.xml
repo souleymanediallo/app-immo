@@ -4,11 +4,7 @@
     <list default="true" id="5f0d625c-ada8-4ca4-a518-8c4bfe3c41e4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/accounts/templates/accounts/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/accounts/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/contacts/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/contacts/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/contacts/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listings/templates/listings/listing_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/listings/templates/listings/listing_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyimmo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyimmo/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyimmo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyimmo/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
