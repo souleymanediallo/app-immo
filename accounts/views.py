@@ -3,6 +3,7 @@ from django.contrib.auth.models import User
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib import messages
 from .forms import RegisterUserCreationForm
+from contacts.models import Contact
 
 
 # Create your views here.
@@ -21,4 +22,6 @@ def register(request):
 
 
 def dashboard(request):
-    return render(request, "accounts/dashboard.html")
+    user_contacts = Contact.objects.filter(user_id=request.user.id)
+    context = {'contacts': user_contacts}
+    return render(request, "accounts/dashboard.html", context)
